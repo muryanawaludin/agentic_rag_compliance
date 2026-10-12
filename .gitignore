@@ -1,0 +1,21 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables & Secrets (JANGAN SAMPAI TERUNGGAH)
+.env
+*.env
+
+# Streamlit local config
+.streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
+Thumbs.db

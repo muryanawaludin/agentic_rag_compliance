@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "REG-PDP-PASAL-37",
+    "title": "UU Pelindungan Data Pribadi - Penilaian Dampak Pelindungan Data",
+    "category": "UU PDP",
+    "content": "Pengendali Data Pribadi wajib melakukan Penilaian Dampak Pelindungan Data Pribadi (Data Protection Impact Assessment / DPIA) dalam hal pemrosesan Data Pribadi memiliki potensi risiko tinggi terhadap Subjek Data Pribadi, termasuk pemrosesan yang menggunakan teknologi baru, profiling, atau pengambilan keputusan yang sepenuhnya terotomatisasi (automated decision making)."
+  },
+  {
+    "doc_id": "REG-PDP-PASAL-40",
+    "title": "UU Pelindungan Data Pribadi - Hak Menolak Keputusan Otomatis",
+    "category": "UU PDP",
+    "content": "Subjek Data Pribadi berhak mengajukan keberatan dan menolak keputusan yang hanya didasarkan pada pemrosesan otomatis, termasuk profiling, yang menimbulkan akibat hukum atau berdampak signifikan terhadap Subjek Data Pribadi. Pengecualian hanya berlaku jika pemrosesan tersebut diwajibkan oleh undang-undang atau didasarkan pada persetujuan eksplisit Subjek Data."
+  },
+  {
+    "doc_id": "REG-PDP-PASAL-57",
+    "title": "UU Pelindungan Data Pribadi - Sanksi Administratif",
+    "category": "UU PDP",
+    "content": "Pelanggaran terhadap ketentuan kewajiban pelaksanaan DPIA dan hak penolakan pemrosesan otomatis dikenai sanksi administratif berupa: peringatan tertulis, penghentian sementara kegiatan pemrosesan data pribadi, penghapusan atau pemusnahan data pribadi, dan/atau denda administratif paling tinggi 2 persen dari pendapatan tahunan atau penerimaan tahunan terhadap variabel pelanggaran."
+  },
+  {
+    "doc_id": "REG-OJK-AI-CREDIT",
+    "title": "Surat Edaran OJK - Tata Kelola Algoritma Penilaian Skor Kredit AI",
+    "category": "POJK Fintech",
+    "content": "Penyelenggara layanan keuangan yang menggunakan algoritma machine learning atau kecerdasan buatan untuk credit scoring wajib menjamin prinsip keadilan (fairness), transparansi, dan dapat dijelaskan (explainability). Lembaga dilarang menggunakan data sensitif non-finansial yang bersifat diskriminatif dan wajib menyediakan opsi intervensi manusia (human-in-the-loop) apabila nasabah mengajukan banding atas penolakan kredit."
+  },
+  {
+    "doc_id": "REG-ISO-42001-A6",
+    "title": "ISO/IEC 42001 - Sistem Manajemen Kecerdasan Buatan (Klausul 6.2)",
+    "category": "ISO Standar",
+    "content": "Organisasi yang mengembangkan dan mengoperasikan sistem AI berisiko tinggi wajib menetapkan proses verifikasi berkelanjutan atas bias model, akurasi inferensi, dan ketertelusuran data latih. Audit algoritmik independen harus dilakukan sekurang-kurangnya sekali dalam setahun untuk memastikan keselarasan terhadap etika dan regulasi lokal."
+  },
+  {
+    "doc_id": "REG-SE-BI-CYBER",
+    "title": "Ketentuan Ketahanan Siber Bank Indonesia - Pengamanan Sistem Pemrosesan Data",
+    "category": "Bank Indonesia",
+    "content": "Bank dan penyelenggara sistem pembayaran wajib menerapkan enkripsi data pada saat diam (data at rest) dan saat transit (data in transit). Seluruh jejak audit komputasi (audit trail) dari sistem pemrosesan transaksi otomatis wajib disimpan dalam media penyimpanan yang tidak dapat diubah (immutable storage) paling singkat selama 5 tahun."
+  }
+]

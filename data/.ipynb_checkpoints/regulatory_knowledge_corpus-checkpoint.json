@@ -1,0 +1,32 @@
+[
+  {
+    "doc_id": "SOP-TV-01",
+    "topic": "Penanganan Kompatibilitas dan Tampilan LG Smart TV",
+    "content": "Untuk masalah tampilan berkedip, peripheral tidak terdeteksi, atau aplikasi streaming freeze pada LG Smart TV: Matikan daya selama 60 detik (cold boot), lepaskan kabel HDMI eksternal, lalu lakukan factory reset via Pengaturan -> Sistem -> Reset Pengaturan Pabrik."
+  },
+  {
+    "doc_id": "SOP-CAM-02",
+    "topic": "Penanganan Daya dan Setup Perangkat GoPro Hero",
+    "content": "Jika GoPro Hero mengalami masalah baterai cepat terkuras atau gagal menyala: Pastikan menggunakan kartu memori microSD dengan sertifikasi U3/V30. Lakukan pembaruan firmware manual melalui kartu SD dan hindari pengisian daya menggunakan adapter pihak ketiga berdaya lebih dari 5V/2A."
+  },
+  {
+    "doc_id": "SOP-LAP-03",
+    "topic": "Troubleshooting Pengisian Daya dan Jaringan Dell XPS",
+    "content": "Untuk kendala Dell XPS tidak mengenali charger original atau kegagalan deteksi adapter Wi-Fi: Masuk ke BIOS Setup (tekan F2 saat booting), periksa status AC Adapter. Lakukan pembaruan driver Chipset dan Intel Killer Wireless melalui Dell SupportAssist."
+  },
+  {
+    "doc_id": "SOP-SW-04",
+    "topic": "Aktivasi Lisensi dan Sinkronisasi Microsoft Office",
+    "content": "Jika muncul eror aktivasi lisensi atau dokumen tidak tersinkronisasi: Jalankan Microsoft Support and Recovery Assistant (SaRA), pastikan akun Microsoft terhubung aktif, bersihkan cache kredensial pada Windows Credential Manager, dan lakukan quick repair instalasi Office."
+  },
+  {
+    "doc_id": "SOP-GAME-05",
+    "topic": "Penanganan Panas dan Sinkronisasi Stik Sony PlayStation",
+    "content": "Jika konsol mengalami overheating atau stik controller terputus mendadak: Letakkan konsol di area berventilasi terbuka dengan jarak minimal 10 cm dari dinding. Lakukan reset tombol fisik controller selama 5 detik menggunakan peniti dan hubungkan kembali menggunakan kabel USB resmi."
+  },
+  {
+    "doc_id": "SOP-REF-06",
+    "topic": "Ketentuan Pengembalian Dana (Refund) dan Garansi Produk",
+    "content": "Permintaan refund hanya diproses jika diajukan dalam kurun waktu 14 hari sejak tanggal pembelian dengan melampirkan bukti transaksi resmi. Penggantian unit cacat pabrik berlaku selama masa garansi 12 bulan tanpa biaya perbaikan."
+  }
+]
