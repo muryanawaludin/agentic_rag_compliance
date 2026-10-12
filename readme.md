@@ -1,5 +1,7 @@
 # Agentic AI: Autonomous Cognitive Architecture & Multi-Agent Systems
 
+[LINK DEMO](https://agenticragcompliance.streamlit.app/)
+
 Implementasi praktis modul **Agentic AI** berbasis Python dan Streamlit, memadukan penalaran kognitif multi-langkah (*Multi-Hop Reasoning*), *Query Rewriting*, *Reciprocal Rank Fusion* (RRF), dan tata kelola otonom untuk kebutuhan industri enterprise.
 
 ## 🚀 Fitur Utama
